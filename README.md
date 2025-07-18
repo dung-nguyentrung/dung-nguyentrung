@@ -1,19 +1,45 @@
-<h1 align="center">Hi 👋, I'm Harry</h1>
-<h3 align="center">A PHP developer from Viet Nam</h3>
+# 👋 I'm Harry — Web Backend Developer from Hai Phong, Vietnam
 
-- 🔭 I’m currently working on **iMES**
+<img src="/build/assets/me-D1TqQObF.jpg" alt="Harry" width="200" align="right" style="border-radius: 16px;"/>
 
-- 🌱 I’m currently learning **Chinese, Photoshop,bla bla...**
+Xin chào! Mình là **Harry**, một lập trình viên web backend đang sống và làm việc tại **Hải Phòng, Việt Nam** – nơi mình từng bước **thiết kế tương lai** của chính mình.
 
-- 👨‍💻 All of my projects are available at [https://danda.vn/](https://danda.vn/)
+## 💼 Giới thiệu bản thân
 
-- 📝 I regularly write articles on [https://danda.vn/bai-viet](https://danda.vn/bai-viet)
+Mình bắt đầu tìm hiểu lập trình từ năm nhất đại học, lúc đó chỉ mới biết chút về **HTML/CSS** để làm các website tĩnh. Nhưng chính cảm giác đưa ý tưởng lên internet đã làm mình bị cuốn hút.
 
-- 💬 Ask me about **PHP**
+Đến năm 3, mình học thêm về **JavaScript, PHP và MySQL**, và đặc biệt thích thú với PHP. Mình cũng tự học thêm **Git** và các công cụ quản lý dự án để phục vụ làm việc nhóm hiệu quả hơn.
 
-- 📫 How to reach me **trungdungnguyen199@gmail.com**
+Hiện tại, mình làm việc với **PHP (Laravel)** để xây dựng và duy trì các hệ thống quản lý sản xuất. Ngoài ra mình cũng có cơ hội đụng tới **C#, Python**, và **Android** khi cần làm tool hoặc app nhỏ.
 
-- ⚡ Fun fact **I think i am funny**
+## 🛠 Kỹ năng & công nghệ
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+- PHP & Laravel
+- MySQL, MSSQL
+- Git / GitHub
+- HTML, CSS, JavaScript
+- C#, Python, Android (basic)
+- Web backend systems, production management platforms
+
+## 👨‍💻 Công việc hiện tại
+
+- 💼 Web Backend Developer
+- 📍 Hải Phòng, Việt Nam
+- 🏭 Xây dựng hệ thống quản lý sản xuất
+
+## 🤝 Dự án ngoài giờ
+
+- Nhận freelance nhỏ
+- Hỗ trợ bạn bè, người quen xây dựng website cá nhân, shop
+- Chia sẻ kinh nghiệm học lập trình cho người mới bắt đầu
+
+## 💡 Quan điểm
+
+> **"Build everything from simple things."**  
+Mình tin rằng chỉ cần có đam mê và kiên nhẫn, **ai cũng có thể học lập trình** và tạo ra sản phẩm hữu ích từ những điều đơn giản nhất.
+
+## 📫 Kết nối với mình
+
+- 📧 Email: [trungdungnguyen199@gmail.com](mailto:trungdungnguyen199@gmail.com)
+- 🐦 Facebook: [facebook.com/shika.harry](https://www.facebook.com/shika.harry/)
+- 🐙 GitHub: [github.com/dung-nguyentrung](https://github.com/dung-nguyentrung)
