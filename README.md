@@ -1,10 +1,5 @@
 # 👋 I'm Harry — Web Backend Developer from Hai Phong, Vietnam
 
-[<img src="[[/build/assets/me-D1TqQObF.jpg]()](https://danda.vn/build/assets/me-D1TqQObF.jpg)" alt="Harry" width="200" align="right" style="border-radius: 16px;"/>
-](https://danda.vn/build/assets/me-D1TqQObF.jpg)
-
-Xin chào! Mình là **Harry**, một lập trình viên web backend đang sống và làm việc tại **Hải Phòng, Việt Nam** – nơi mình từng bước **thiết kế tương lai** của chính mình.
-
 ## 💼 Giới thiệu bản thân
 
 Mình bắt đầu tìm hiểu lập trình từ năm nhất đại học, lúc đó chỉ mới biết chút về **HTML/CSS** để làm các website tĩnh. Nhưng chính cảm giác đưa ý tưởng lên internet đã làm mình bị cuốn hút.
