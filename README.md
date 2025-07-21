@@ -1,4 +1,4 @@
-# 👋 I'm Harry — Web Backend Developer from Nghe An with <3
+# 👋 I'm Harry — Web Backend Developer from Nghe An with :heart:
 
 ## 💼 Giới thiệu bản thân
 
