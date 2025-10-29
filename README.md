@@ -31,5 +31,5 @@ Mình tin rằng chỉ cần có đam mê và kiên nhẫn, **ai cũng có thể
 ## 📫 Kết nối với mình
 
 - 📧 Email: [trungdungnguyen199@gmail.com](mailto:trungdungnguyen199@gmail.com)
-- 🐦 Facebook: [facebook.com/shika.harry](https://www.facebook.com/shika.harry/)
+- 🐦 Facebook: [facebook.com/shika.harry](https://www.facebook.com/notfound.harry/)
 - 🐙 GitHub: [github.com/dung-nguyentrung](https://github.com/dung-nguyentrung)
